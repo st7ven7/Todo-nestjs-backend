@@ -54,7 +54,7 @@ Security
 
 Clone the repository
 
-git clone https://github.com/st7ven7/nestjs-todo-auth.git
+git clone https://github.com/st7ven7/Todo-nestjs-backend
 
 Go into the project
 
